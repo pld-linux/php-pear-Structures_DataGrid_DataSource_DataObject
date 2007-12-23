@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - DataSource driver using PEAR::DB_DataObject
 Summary(pl.UTF-8):	%{_pearname} - sterownik DataSource do PEAR::DB_DataObject
 Name:		php-pear-%{_pearname}
-Version:	0.2.0
+Version:	0.2.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	898926b71979a736fa288fb1c635c471
+# Source0-md5:	b23dd86088a8c5c06b222488a9cb924e
 URL:		http://pear.php.net/package/Structures_DataGrid_DataSource_DataObject/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
