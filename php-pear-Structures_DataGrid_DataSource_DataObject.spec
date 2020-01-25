@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_DataSource_DataObject
 %define		subver	dev1
